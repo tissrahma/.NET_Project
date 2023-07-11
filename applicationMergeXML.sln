@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "applicationMergeXML", "applicationMergeXML\applicationMergeXML.csproj", "{BDBF8801-2DC0-4982-B234-DBA284BBB96B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDBF8801-2DC0-4982-B234-DBA284BBB96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBF8801-2DC0-4982-B234-DBA284BBB96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBF8801-2DC0-4982-B234-DBA284BBB96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBF8801-2DC0-4982-B234-DBA284BBB96B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F6C7827-9925-4A70-A5BA-27A050FC29C7}
+	EndGlobalSection
+EndGlobal
